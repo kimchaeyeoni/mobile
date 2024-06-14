@@ -161,9 +161,9 @@ header .nav a{
   content: '';
   position: absolute;
   top: 50%;
-  left: -100%;
+  left: 100%;
   transform: translateY(-50%);
-  width: 10rem;
+  width: 12rem;
   height: .2rem;
   background-color: #222;
 }
@@ -171,9 +171,9 @@ header .nav a{
   content: '';
   position: absolute;
   top: 50%;
-  right: -100%;
+  right: 100%;
   transform: translateY(-50%);
-  width: 10rem;
+  width: 12rem;
   height: .2rem;
   background-color: #222;
 }
