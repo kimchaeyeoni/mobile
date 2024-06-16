@@ -163,7 +163,7 @@ header .nav a{
   top: 50%;
   left: 100%;
   transform: translateY(-50%);
-  width: 12rem;
+  width: 10rem;
   height: .2rem;
   background-color: #222;
 }
@@ -173,7 +173,7 @@ header .nav a{
   top: 50%;
   right: 100%;
   transform: translateY(-50%);
-  width: 12rem;
+  width: 10rem;
   height: .2rem;
   background-color: #222;
 }
